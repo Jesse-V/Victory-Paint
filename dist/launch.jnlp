@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:/C:/Users/Jesse/Documents/NetBeansProjects/Java%20Class/Victory%20Paint/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>Victory Paint</title>
+        <vendor>Jesse</vendor>
+        <homepage href=""/>
+        <description>Victory Paint</description>
+        <description kind="short">Victory Paint</description>
+
+    </information>
+<update check="always"/>
+
+    <resources>
+<j2se version="1.7+"/>
+<jar href="Victory Paint.jar" main="true"/>
+
+
+    </resources>
+    <application-desc main-class="victorypaint.Main">
+
+    </application-desc>
+</jnlp>
